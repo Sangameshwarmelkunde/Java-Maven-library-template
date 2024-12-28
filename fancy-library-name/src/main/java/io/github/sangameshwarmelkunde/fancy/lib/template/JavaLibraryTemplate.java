@@ -1,4 +1,4 @@
-package dev.thriving.oss.java.library.template;
+package io.github.sangameshwarmelkunde.fancy.lib;
 
 /**
  * Javadoc for {@link JavaLibraryTemplate}
